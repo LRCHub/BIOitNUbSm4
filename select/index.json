@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "hikari",
+  "base_artist": "パソコン音楽クラブ",
+  "createdAt": "2026-03-26T12:51:25.957072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hikari No Nakae",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/01_Hikari_No_Nakae_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hikari",
+      "artist": "Aoi Teshima",
+      "has_synced": false,
+      "path": "select/02_Hikari_Aoi_Teshima.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hikari",
+      "artist": "Nujabes feat. Substantial",
+      "has_synced": true,
+      "path": "select/03_Hikari_Nujabes_feat._Substantial.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hikari",
+      "artist": "Nujabes, Substantial",
+      "has_synced": true,
+      "path": "select/04_Hikari_Nujabes,_Substantial.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kono Yami Wo Terasu Hikari No Mukouni",
+      "artist": "Anly",
+      "has_synced": true,
+      "path": "select/05_Kono_Yami_Wo_Terasu_Hikari_No_Mukouni_Anly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sore wa Chiisana Hikari no you na",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/06_Sore_wa_Chiisana_Hikari_no_you_na_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hikari to Yami -Hikigatari ver.-",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/07_Hikari_to_Yami_-Hikigatari_ver.-_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hikari Are",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/08_Hikari_Are_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hikari Shoumeiron",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/09_Hikari_Shoumeiron_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hotaru no Hikari",
+      "artist": "Ikimono Gakari",
+      "has_synced": true,
+      "path": "select/10_Hotaru_no_Hikari_Ikimono_Gakari.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hikari e",
+      "artist": "The Babystars",
+      "has_synced": true,
+      "path": "select/11_Hikari_e_The_Babystars.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hikari",
+      "artist": "Wataru Hatano",
+      "has_synced": true,
+      "path": "select/12_Hikari_Wataru_Hatano.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hikari no Hahen",
+      "artist": "Yu Takahashi",
+      "has_synced": true,
+      "path": "select/13_Hikari_no_Hahen_Yu_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hikari",
+      "artist": "Oceans Ate Alaska",
+      "has_synced": true,
+      "path": "select/14_Hikari_Oceans_Ate_Alaska.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "hikari",
+      "artist": "パソコン音楽クラブ, 長谷川白紙",
+      "has_synced": false,
+      "path": "select/pl_01_hikari_パソコン音楽クラブ,_長谷川白紙.txt"
+    }
+  ]
+}
